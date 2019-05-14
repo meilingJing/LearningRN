@@ -1,4 +1,3 @@
-#基础配置 
 ## React Native中文官网
 &emsp;&emsp;https://reactnative.cn/
 
