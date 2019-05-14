@@ -29,3 +29,8 @@
 
 &emsp;&emsp;&emsp;&emsp;![addAndroidSdkLocation](https://github.com/meilingJing/LearningRN/blob/master/picture/add_android_sdk_location.png?raw=true)
 
+&emsp;&emsp;&emsp;&emsp;这样配置完成后，重新运行项目。运行成功:v:会显示如下图所示：
+
+&emsp;&emsp;&emsp;&emsp;![successfulOperation](https://github.com/meilingJing/LearningRN/blob/master/picture/successful_operation.png?raw=true)
+
+
