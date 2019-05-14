@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;``` react-native run-android```
 
-&emsp;&emsp;&emsp;&emsp;当你开开心心等待项目运行起来时，突然报错了T_T
+&emsp;&emsp;&emsp;&emsp;当你开开心心等待项目运行起来时，突然报错了:sob::sob::sob:
 
 &emsp;&emsp;&emsp;&emsp;![sdkLocationNotFound](https://github.com/meilingJing/LearningRN/blob/master/picture/sdk_location_not_found.png?raw=true)
 
