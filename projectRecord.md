@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;![sdkLocationNotFound](https://github.com/meilingJing/LearningRN/blob/master/picture/sdk_location_not_found.png?raw=true)
 
-&emsp;&emsp;&emsp;&emsp;**<font color=#ff0000 size=4> 注意:这个错误的原因是创建的项目中android目录的部分缺少了Android sdk路径的配置文件local.properties，具体配置如下图所示： </font>**
+&emsp;&emsp;&emsp;&emsp;**<font color="#ff0000"> 注意:这个错误的原因是创建的项目中android目录的部分缺少了Android sdk路径的配置文件local.properties，具体配置如下图所示： </font>**
 
 &emsp;&emsp;&emsp;&emsp;![addAndroidSdkLocation](https://github.com/meilingJing/LearningRN/blob/master/picture/add_android_sdk_location.png?raw=true)
 
